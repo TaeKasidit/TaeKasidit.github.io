@@ -1,12 +1,12 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+# Programming
+- skill: C#
+  description: ASP.Net, MVC Framework, Dot net core, Entity Framework.
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+# Database
+- skill: MS-SQL
+  description: Store procedure.
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+# Server
+- skill: Microsoft Windows Azure
+  description: Microsoft Windows Azure setup.
