@@ -6,7 +6,7 @@
   summary: 
    <ul class="resume-item-list">
    <li>GiveInkind.com &mdash; C# and Wordpress syncing (E&mdash;Commerce system).</li>
-   <li>iRespond &mdash; C# WPF Client and Nuget PCL library.</li>
+   <li>iRespond &mdash; C# Biometric Identification.</li>
    <li>Aslak &mdash; C# Windows Application Stock Inventory and Report system.</li>
    </ul>
 
@@ -21,4 +21,4 @@
 - company: Arora Solutions, Ltd.
   position: Software Engineer
   duration:   Feb, 2014  &mdash; Apr, 2015
-  summary: ShoppingFriday.com
+  summary: ShoppingFriday.com (Multistore E&mdash;Commerce site).

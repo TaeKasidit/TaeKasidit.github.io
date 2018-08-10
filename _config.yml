@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "False"
+resume_avatar:                  "True"
 resume_name:                    "Kasidit Tae Khamfoo"
 resume_title:                   "C# .Net Developer"
 resume_contact_email:           "tae.kasidit@gmail.com"
